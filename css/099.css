@@ -68,7 +68,7 @@ header .inner .pc .gnb .depth01 .depth02 li {
         transition: 0.7s;
     }
     .mobile .depth01 {
-        width: 30%;
+        width: 40%;
         background-color: tomato;
         color: #fff;
         text-align: center;
