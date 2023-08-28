@@ -66,6 +66,10 @@ header .inner .pc .gnb .depth01 .depth02 li {
         top: 0;
         right: -100%;
         transition: 0.7s;
+        overflow: scroll;
+    }
+    .mobile_gnb::-webkit-scrollbar {
+        display: none;
     }
     .mobile .depth01 {
         width: 40%;
